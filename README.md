@@ -1,12 +1,21 @@
 # Created with 💌 by Maharshi.
 ###############################################################################################
 
+
+
+
 # SuperLinter Github Actions Project.
 ![Screenshot (15)](https://github.com/Maharshibhatnagar/SuperLinter-Github-Actions/assets/119435144/5162dfc2-f29a-40da-ac25-7615c6b50a18)
 
 # SuperLinter or Linter Supports wide variety of programming languages.
+![Screenshot (14)](https://github.com/Maharshibhatnagar/SuperLinter-Github-Actions/assets/119435144/dc97b5e1-e9dd-45d2-b61b-9116149aece6)
+
+
+
 
 ###############################################################################################
+
+
 
 # Github Actions Quick Revision.
 
@@ -21,6 +30,9 @@
 
 # 4. Under Jobs we have runners and steps, under steps we have actions :).
 ![Screenshot (13)](https://github.com/Maharshibhatnagar/SuperLinter-Github-Actions/assets/119435144/dffef9d2-7fc7-45e5-8b6d-cc289405ca12)
+
+
+
 
 ################################################################################################
 
