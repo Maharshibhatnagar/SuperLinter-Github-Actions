@@ -4,7 +4,7 @@ def hello():
 
 def bye():
     # SyntaxError(Manual)
- print("bye") 
+    print("bye") 
 
 
 print(hello())
