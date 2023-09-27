@@ -3,7 +3,8 @@ def hello():
 
 
 def bye():
-    print("bye")
+    # SyntaxError(Manual)
+ print("bye") 
 
 
 print(hello())
