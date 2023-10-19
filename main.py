@@ -6,4 +6,3 @@ def bye():
     print("bye")
 
 hello()  # Call the function hello()
-
