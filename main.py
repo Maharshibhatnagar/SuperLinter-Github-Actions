@@ -1,10 +1,9 @@
 def hello():
     print("hi")
 
-
 def bye():
     # SyntaxError(Manual)
-    print("bye") 
+    print("bye")
 
+hello()  # Call the function hello()
 
-print(hello())
