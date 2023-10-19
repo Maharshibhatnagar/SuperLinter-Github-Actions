@@ -1,6 +1,5 @@
 # Created with 💌 by Maharshi.
-##############################################################################################
-
+###############################################################################################
 
 
 
@@ -9,8 +8,6 @@
 
 # SuperLinter or Linter Supports wide variety of programming languages.
 ![Screenshot (14)](https://github.com/Maharshibhatnagar/SuperLinter-Github-Actions/assets/119435144/dc97b5e1-e9dd-45d2-b61b-9116149aece6)
-
-
 
 
 ###############################################################################################
@@ -28,17 +25,14 @@
 # 3. On Push Jobs get triggered.
 ![Screenshot (12)](https://github.com/Maharshibhatnagar/SuperLinter-Github-Actions/assets/119435144/f7656068-f82f-410d-9196-02afb0af60c8)
 
-# 4. Under Jobs we have runners and steps, under steps we have actions :).
+# 4. Under Jobs, we have runners and steps, under steps we have actions :).
 ![Screenshot (13)](https://github.com/Maharshibhatnagar/SuperLinter-Github-Actions/assets/119435144/dffef9d2-7fc7-45e5-8b6d-cc289405ca12)
 
 
 
-
-################################################################################################
-
+###############################################################################################
 
 
 
-
-## Updates
+# Updates
 Fix: Changed SuperLinter from v3 to v4 to fix the error `[FATAL] Failed to view version file:[/action/lib/functions/linterVersions.txt]`
